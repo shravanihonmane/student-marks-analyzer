@@ -30,7 +30,8 @@ else:
     result = "FAIL"
 
 print("\n===== Result =====")
-print("Student Name:", name)
+print("Student Name:", namep🌺
+*p
 print("Total Marks:", total, "/ 500")
 print("Percentage:", round(percentage, 2), "%")
 print("Grade:", grade)
